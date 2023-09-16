@@ -18,7 +18,6 @@ export const App = () => {
       </div>
       <div className={css.container}>
         {<Statistics title="Upload stats" stats={data} />}
-        {<Statistics stats={data} />}
       </div>
     </>
   );
