@@ -1,6 +1,6 @@
 import Profile from './Profile/Profile';
 import Statistics from './Statistics/Statistics';
-import FriendList from './FriendsList/FriendLIst';
+import FriendList from './FriendsList/FriendList';
 import css from 'App.module.css';
 
 import friends from '../components/json/friends.json';
