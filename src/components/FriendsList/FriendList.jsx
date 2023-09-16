@@ -1,5 +1,5 @@
 import css from './friendList.module.css';
-import FriendListItem from './FriendListItem';
+import FriendListItem from './FriendListItem/FriendListItem';
 
 export default function FriendList({ friends }) {
   const friendList = friends.map(friend => (
